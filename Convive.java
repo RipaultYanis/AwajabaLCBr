@@ -1,5 +1,5 @@
 package AwajabaLCBr;
 
-class AwajabaApp{
+class Convive{
 	
 }
