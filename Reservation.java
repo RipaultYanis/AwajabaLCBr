@@ -1,0 +1,6 @@
+package AwajabaLCBr;
+
+class Reservation
+{
+	
+}
